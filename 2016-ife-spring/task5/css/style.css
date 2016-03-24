@@ -142,11 +142,16 @@ figcaption{
     height: 320px;
     margin-right: 14px;
     text-align: right;
-    font-size: 16px;
+    font-size: 15px;
+}
+.formleft p{
+    margin-top: 0px;
+    padding-bottom: 7px;
 }
 .formright{
     color: #000;
     font-size: 15px;
+    padding-bottom:10px;
 }
 .formwarn{
     color: #aaa;
