@@ -1,0 +1,182 @@
+body{
+    font-size: 16px;
+    margin: 0;
+    padding:0;
+    border: 0;
+    background-color: #dedede;
+    font-family: "Microsoft YaHei";
+}
+.top{
+    width: 100%;
+    height: 85px;
+    display: table;
+    background-color: #333333;
+    min-width: 800px;
+}
+.logo{
+    float: left;
+    padding: 16px 0;
+    width: 300px;
+}
+.logo img{
+    padding-left: 10px;
+    width: 140px;
+    height: 50px;
+}
+.nav ul{
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.nav ul li{
+    margin: 30px 15px;
+    float: left;
+}
+.nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.nav ul li a:hover{
+    color:#808080;
+}
+.article1{
+    background-color: #ffffff;
+    box-shadow: 3px 3px 10px #808080;
+    margin-left: 20px;
+    margin-right:460px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    min-width: 200px;
+}
+.article2{
+    background-color: #ffffff;
+    box-shadow: 3px 3px 10px #808080;
+    margin-left: 20px;
+    margin-right:460px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    min-width: 200px;
+}
+.article2 ul li{
+    list-style: none;
+}
+.pic{
+    background-color: #ffffff;
+    box-shadow: 3px 3px 10px #808080;
+    margin-left: 20px;
+    margin-right:460px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    min-width: 200px;
+}
+figure{
+    height:100px;
+    width: 150px;
+    border: 1px solid #808080;
+    text-align: center;
+    padding: 10px 0;
+    display: inline-block;
+}
+figcaption{
+    margin-bottom: 10px;
+}
+.article3{
+    background-color: #ffffff;
+    box-shadow: 3px 3px 10px #808080;
+    margin-left: 20px;
+    margin-right:460px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    min-width: 200px;
+}
+.article3 ol li{
+    font-weight: bold;
+}
+.article3 table{
+    width:100%;
+    margin: 0 auto;
+    border-color:#ccc;
+    border-collapse:collapse;
+}
+.tabletop{
+    color:white;
+    background-color: #333;
+}
+.tablefooter{
+    background-color: #ccc;
+}
+.sidebar{
+    background-color: #ffffff;
+    box-shadow: 3px 3px 10px #808080;
+    float: right;
+    margin-top: 105px;
+    margin-right: 20px;
+    padding: 15px;
+    position: absolute;
+    top:0;
+    right: 0;
+    width: 380px;
+}
+.tit{
+    height: 45px;
+    border-left: 3px solid #ccc;
+    margin-top: 10px;
+}
+.titcont{
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.reg{
+    margin: 15px;
+    font-size: 14px;
+}
+.formleft{
+    float: left;
+    width: 120px;
+    height: 320px;
+    margin-right: 14px;
+    text-align: right;
+    font-size: 16px;
+}
+.formright{
+    color: #000;
+    font-size: 15px;
+}
+.formwarn{
+    color: #aaa;
+    font-size: 14px;
+}
+.formbtn{
+    width: 100%;
+    height: 40px;
+    background-color: #3553cf;
+    color: #fff;
+    border-radius: 13px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.color{
+    color: #808080;
+}
+.pstyle{
+    text-indent: 2em;
+    font-size: 15px;
+}
+.information{
+    font-size: 13px;
+}
+.footer {
+    height: 85px;
+    background-color: #000;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 85px;
+}
