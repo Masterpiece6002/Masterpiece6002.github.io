@@ -44,6 +44,7 @@ body{
     margin-right: 140px;
     background-color: #fff;
     border: 1px solid #999;
+    padding:20px;
 }
 .left p{
     float: right;
